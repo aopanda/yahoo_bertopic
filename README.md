@@ -1,4 +1,7 @@
-# yahoo_bertopic
+READ ME file is still work in progress
+
+
+# Analyse what Japanese people are posting on Yahoo! forum with BERTopic
 Clustering types of Japanese conversations based on forum posts on Yahoo! Chiebukuro 
 
 # Purpose
