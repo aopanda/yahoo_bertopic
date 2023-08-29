@@ -2,7 +2,7 @@
 The goal of this project is understanding types of parenting concerns in Japanese based on what people post on Yahoo! Chiebukuro forum. 
 I first scraped forum parenting-related posts with a set of keywords using Selenium. After cleaning the scraped data, BERTopic was used to cluster the posts into categories. 
 
-The full result is summarised [here]([url](https://note.com/ati_sum/n/n236c2669b6dd#4a63873f-5949-45e0-9d3c-2014159a7322)).
+The full result is summarised [here](https://note.com/ati_sum/n/n236c2669b6dd#4a63873f-5949-45e0-9d3c-2014159a7322).
 
 # Files 
 There are five files created for this project. 
