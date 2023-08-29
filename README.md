@@ -1,5 +1,3 @@
-READ ME file is still work in progress
-
 # Analyse what Japanese people are posting on Yahoo! forum with BERTopic
 The goal of this project is understanding types of parenting concerns in Japanese based on what people post on Yahoo! Chiebukuro forum. 
 I first scraped forum parenting-related posts with a set of keywords using Selenium. After cleaning the scraped data, BERTopic was used to cluster the posts into categories. 
